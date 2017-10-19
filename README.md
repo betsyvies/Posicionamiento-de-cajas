@@ -12,5 +12,5 @@
 - [EDteam] : https://www.youtube.com/watch?v=fQmdNY8u2F4
 
 ### Imagen
-![Caja1] (images/caja1.png)
-![Caja2] (images/caja2.png)
+![Caja1](assets/images/caja1.png)
+![Caja2](assets/images/caja2.png)
