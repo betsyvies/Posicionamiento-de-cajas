@@ -1,0 +1,57 @@
+body {
+ box-sizing: border-box;
+ display: inline-block;
+}
+.red {
+  background-color: red;
+  width: 320px;
+  height: 320px;
+  margin: 16px;
+  text-align: center;
+}
+
+.purple {
+  background-color: purple;
+  width: 160px;
+  height: 160px;
+  display: inline-block;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.yellow {
+  background-color: yellow;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  right: 25%;
+}
+
+.blue {
+  background-color: blue;
+  width: 320px;
+  height: 320px;
+  margin: 16px;
+  text-align: center;
+}
+.green {
+  background-color: green;
+  width: 160px;
+  height: 160px;
+  display: inline-block;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 13%;
+}
+.black {
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  right: 63%;
+  bottom: 25%;
+}
